@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Haley 👋
 
-<!--
-**Haleybo/Haleybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **University of Maryland Global Campus** (Graduating May 2026).
 
-Here are some ideas to get you started:
+USAF Veteran (7 years) | Currently an Electro/Mechanical Technition at **Tinker AFB, Oklahoma City.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring **Software Engineer** with interests in **game development, databases, and systems programming.**
+
+## Skills
+- **Languages:** Java, C++, Python, SQL
+- **Tools:** Visual Studio, Eclipse, Oracle SQL Developer
+- **Other:** Linux, Networking fundamentals, Agile/Scrum
+
+## Contact Me
+- **[LinkedIn]**(https://www.linkedin.com/in/haley-boydstun-257905231/)
+- **Email:** Haleyboydstun@gmail.com
