@@ -2,9 +2,8 @@
 
 Computer Science student at **University of Maryland Global Campus** (Graduating May 2026).
 
-USAF Veteran (7 years) | Currently an Electro/Mechanical Technition at **Tinker AFB, Oklahoma City.**
+USAF Veteran | **Software Engineer @ Boeing**
 
-Aspiring **Software Engineer** with interests in **game development, databases, and systems programming.**
 
 ## Skills
 - **Languages:** Java, C++, Python, SQL
